@@ -4,7 +4,13 @@ Final-year CSE (AI & ML) student at KKR & KSR Institute of Technology, Guntur, A
 
 I build things that are meant to run in the real world, not just demo well — which means I spend as much time on the people who'd have to adopt them as on the code. Most of the last two years has gone into transit and energy systems.
 
-📍 Guntur, AP · [LinkedIn](https://www.linkedin.com/in/lakshmi-balaji-kamjula-302031279/) · [klbreddy2@gmail.com](mailto:klbreddy2@gmail.com)
+📍 Guntur, AP · [LinkedIn](https://www.linkedin.com/in/lakshmi-balaji-reddy-kamjula-302031279/) · [klbreddy2@gmail.com](mailto:klbreddy2@gmail.com)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
