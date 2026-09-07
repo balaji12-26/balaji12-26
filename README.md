@@ -10,16 +10,26 @@ I build things that are meant to run in the real world, not just demo well — w
 
 ## Projects
 
-**[TravelloBus](https://github.com/balaji12-26/travellobus)** — Real-time bus occupancy and transit analytics for state road transport. Derives occupancy deterministically from electronic ticketing machine events rather than cameras, avoiding both the cost and the privacy exposure of vision-based counting. Three-layer architecture with offline-tolerant edge devices, a passenger PWA and a depot dashboard. [Live demo](https://travellobus-app.vercel.app/)
-`Python · FastAPI · JavaScript · Supabase · ESP32 · YOLOv8`
-🏆 1st place at Innovesta (KITS) and Prakalp National Level Project Expo · Runners-up, KITS Akshar Gala · Finalist, V-LaunchPad 2026 (VIT-AP)
+### [TravelloBus](https://github.com/balaji12-26/travellobus)
 
-**[DemandForge](https://github.com/balaji12-26/demandforge)** — Hybrid renewable energy dispatch simulation for industrial peak-demand relief. MPC optimisation (PuLP/CBC) over 96 time steps, XGBoost co-forecasting of electrical and thermal load, LCOS and IRR analysis. Models 65.9% peak-hour grid reduction at ₹6.01/kWh LCOS against a ₹7.65 grid tariff.
-`Python · XGBoost · PuLP · pandas · matplotlib`
-🏆 1st place, Hybrid Hack 2026 — Aaruush, SRM Institute of Science and Technology, Chennai
+Real-time bus occupancy and transit analytics for state road transport. Derives occupancy deterministically from electronic ticketing machine events rather than cameras, avoiding both the cost and the privacy exposure of vision-based counting. Three-layer architecture with offline-tolerant edge devices, a passenger PWA and a depot dashboard.
 
-**AI Career Counselling** — Personalised career guidance system. Co-inventor on a published Indian patent application (App. No. 202441103026).
-`Python · Machine Learning`
+**Stack:** Python · FastAPI · JavaScript · Supabase · ESP32 · YOLOv8<br>
+**Recognition:** 1st place at Innovesta (KITS) and Prakalp National Level Project Expo · Runners-up, KITS Akshar Gala · Finalist, V-LaunchPad 2026 (VIT-AP)<br>
+**Demo:** [travellobus-app.vercel.app](https://travellobus-app.vercel.app/)
+
+### [DemandForge](https://github.com/balaji12-26/demandforge)
+
+Hybrid renewable energy dispatch simulation for industrial peak-demand relief. MPC optimisation (PuLP/CBC) over 96 time steps, XGBoost co-forecasting of electrical and thermal load, LCOS and IRR analysis. Models 65.9% peak-hour grid reduction at ₹6.01/kWh LCOS against a ₹7.65 grid tariff.
+
+**Stack:** Python · XGBoost · PuLP · pandas · matplotlib<br>
+**Recognition:** 1st place, Hybrid Hack 2026 — Aaruush, SRM Institute of Science and Technology, Chennai
+
+### AI Career Counselling
+
+Personalised career guidance system. Co-inventor on a published Indian patent application (App. No. 202441103026).
+
+**Stack:** Python · Machine Learning
 
 ---
 
